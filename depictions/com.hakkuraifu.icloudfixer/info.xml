@@ -20,6 +20,10 @@
 		]]>
 		</description>
 	</descriptionlist>
+	<screenshots>
+		<description>List of option</description>
+		<image>EcFZfscXsAAcCj4.jpg</image>	
+	</screenshots>
 	<changelog>
 		<change>- Fix download link</change>
 	</changelog>
