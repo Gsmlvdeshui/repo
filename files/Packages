@@ -4,13 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: NazkyYT
 Installed-Size: 316
 Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>=2.2.4), file-cmds (>=220.7-3)
-Filename: ./debs/iCloudFixer.deb
-Size: 85222
-MD5sum: 19ba0008d94403a175d92341fce0b387
-SHA1: a4390c1884fbe81958e7cbf8fdeab0751ee98b96
-SHA256: 665f5f7088b97d970d507f06e6866cfd2a50e775a44307839960a83a74ce5644
+Filename: ./debs/com.hakkuraifu.icloudfixer.deb
 Section: Tweaks | iCloud
 Description: Unclock iOS iCloud account and fix IcloudBypass error
-Name: iCloudFixer
 Author: NazkyYT
 Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.icloudfixer
+Name: iCloudFixer
