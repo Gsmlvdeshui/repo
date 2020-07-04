@@ -2,7 +2,7 @@ Package: com.hakkuraifu.icloudfixer
 Version: 0.1.3.2.1
 Section: Tweaks
 Maintainer: Nazky <nazkyofficial@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate, preferenceloader, file-cmds
+Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>= 2.2.4), file-cmds
 Architecture: iphoneos-arm
 Filename: ./debs/com.hackuraifu.icloudfixer
 Description: Delete a account iCloud and fix iCloudBypass error
