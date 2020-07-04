@@ -9,16 +9,3 @@ Description: Unclock iOS iCloud account and fix IcloudBypass error
 Author: NazkyYT
 Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.icloudfixer
 Name: IcloudFIxer
-
-
-Package: com.hakkuraifu.file-cmds
-Version: 220.7-3
-Architecture: iphoneos-arm
-Maintainer: NazkyYT
-Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>= 2.2.4)
-Filename: ./debs/com.hakkuraifu.file-cmds.deb
-Section: Tweaks
-Description: chflags, compress, ipcrm, ipcs, pax
-Author: NazkyYT
-Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.file-cmds
-Name: file-cmds
