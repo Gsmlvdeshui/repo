@@ -16,7 +16,6 @@ Version: 220.7-3
 Architecture: iphoneos-arm
 Maintainer: NazkyYT
 Installed-Size: 316
-Depends: firmware (>=10.0), mobilesubstrate, preferenceloader (>= 2.2.4), com.hakkuraifu.file-cmds (>= 2020.7-3)
 Filename: ./debs/com.hakkuraifu.file-cmds.deb
 Section: Tweaks | iCloud
 Description: chflags, compress, ipcrm, ipcs, pax
