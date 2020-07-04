@@ -5,10 +5,10 @@ Maintainer: NazkyYT
 Installed-Size: 320
 Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>=2.2.4), file-cmds (>=220.7-3)
 Filename: ./debs/com.hakkuraifu.icloudfixer.deb
-Size: 86272
-MD5sum: 7840096929b07fa53a7adf22470553d0
-SHA1: a06b4a3f6446f09872ca6ea25a6ad8841a68cfae
-SHA256: bbdad92ad347ff436adfc6fd3315eabcaa6a2d258f25c6aba8f08e43b912f8e6
+Size: 86322
+MD5sum: 3e3f0e0b44368724556a81ebcac546c5
+SHA1: cf51e091a206197437c068517fbddbc2204f86fa
+SHA256: 28a67d405586a33a4800a985bc89e34e605aaccddb4001413e4d770a022dba5e
 Section: Tweaks
 Description: Unclock iOS iCloud account and fix IcloudBypass error
 Author: NazkyYT
