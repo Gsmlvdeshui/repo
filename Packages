@@ -9,7 +9,7 @@ Size: 86274
 MD5sum: 4c8f484ab46d92220b63e6918458d163
 SHA1: a7c7fe8d82cf2b4491ba29e8b4f2f77cef046634
 SHA256: 6ffe88bd23ea169d996502c7e4998b9145b5691b27f4b567c2a122bd730e4ba4
-Section: Tweaks
+Section: Tweaks | iCloud
 Description: Unclock iOS iCloud account and fix IcloudBypass error
 Author: NazkyYT
 Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.icloudfixer
@@ -26,7 +26,7 @@ Size: 14244
 MD5sum: f8ec7cbf1a05ba44950cbe93bab78fd0
 SHA1: bcb86d7914cf8c94720727f95411ec15c2f2a375
 SHA256: 70234240e4aafea179aaf220ba038b46c358a163d30dcd0f8af6a08c2f0e3907
-Section: Tweaks
+Section: Tweaks | Apps
 Description: Disable ads in the parcel apps
 Author: nazkyyt ben
 Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.parcelnoads
