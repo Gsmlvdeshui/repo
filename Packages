@@ -3,7 +3,7 @@ Version: 0.1.3.3
 Architecture: iphoneos-arm
 Maintainer: NazkyYT
 Installed-Size: 320
-Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>=2.2.4), file-cmds (>=220.7-3)
+Depends: firmware (>10.0), mobilesubstrate, preferenceloader (>=2.0.0), file-cmds (>=220.7-3)
 Filename: ./debs/com.hakkuraifu.icloudfixer.deb
 Size: 86274
 MD5sum: 4c8f484ab46d92220b63e6918458d163
@@ -14,6 +14,23 @@ Description: Unclock iOS iCloud account and fix IcloudBypass error
 Author: NazkyYT
 Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.icloudfixer
 Name: IcloudFIxer
+
+Package: com.hakkuraifu.parcelnoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: nazkyyt ben
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader (>=2.0.0), firmware (>10.0)
+Filename: ./debs/com.hakkuraifu.parcelnoads.deb
+Size: 14244
+MD5sum: f8ec7cbf1a05ba44950cbe93bab78fd0
+SHA1: bcb86d7914cf8c94720727f95411ec15c2f2a375
+SHA256: 70234240e4aafea179aaf220ba038b46c358a163d30dcd0f8af6a08c2f0e3907
+Section: Tweaks
+Description: Disable ads in the parcel apps
+Author: nazkyyt ben
+Depiction: https://hakkuraifu.github.io/repo/depictions/?p=com.hakkuraifu.parcelnoads
+Name: ParcelVIP
 
 Package: file-cmds
 Version: 220.7-3

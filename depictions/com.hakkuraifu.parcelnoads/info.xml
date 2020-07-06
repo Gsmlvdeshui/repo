@@ -1,0 +1,28 @@
+<package>
+	<id>com.hakkuraifu.parcelnoads</id>
+	<name>icloudfixer</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Unclock premium feature</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		With this tweak you can unclock premium feature in the parcel apps
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<description>List of option</description>
+		<image>screenshot1.PNG</image>	
+	</screenshots>
+	<changelog>
+		<change>- Add no Ads option</change>
+	</changelog>
+</package>
